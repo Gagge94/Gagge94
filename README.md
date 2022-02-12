@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Gagge94
+- 👀 I’m interested in ioBroker, Airplanes, Flightsimulations, Photogrphy
+- 🌱 I’m currently learning Coding in java
+- 💞️ I’m looking to collaborate on 
